@@ -1,1 +1,16 @@
-During my internship, I developed a Smart Recruitment System using Streamlit to streamline the applicant tracking process. This system allows users to upload multiple PDF resumes, which are then processed and evaluated against a job description. I integrated Google Generative AI (Gemini) to analyze the resumes and provide detailed evaluations and percentage matches based on the job requirements. Key technologies used include Python, pdf2image for PDF processing, and Google Generative AI for content generation. This project enhances recruitment efficiency by automating resume assessments and providing insightful feedback
+# Smart Recruitment System (ATS Resume Expert)
+
+The **Smart Recruitment System** is a web application that leverages the capabilities of Google Generative AI to evaluate resumes against a provided job description. It provides detailed evaluations and percentage match results for each resume uploaded, making the recruitment process more efficient and effective.
+
+## Tech Stack
+- **Frontend:** Streamlit
+- **Backend:** Python
+- **Machine Learning:** Google Generative AI (Gemini Pro Vision)
+- **PDF Processing:** pdf2image
+- **Environment:** Python, dotenv
+
+## Features
+- Upload multiple resumes in PDF format.
+- Analyze resumes against a job description.
+- Get professional evaluations highlighting strengths and weaknesses.
+- Obtain a percentage match indicating how well the resume fits the job description.
